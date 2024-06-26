@@ -1,3 +1,4 @@
+//Exercitando um pouco mais alguns conceitos básicos em conjunto para reforçar o aprendizado
 let saldo = 300;
 let deposito = 30;
 let saque = 23;

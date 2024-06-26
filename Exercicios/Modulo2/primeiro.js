@@ -1,3 +1,4 @@
+//Reforçando conhecimento sobre typeof
 let b = true;
 let n = 9;
 let s = `Boa noite`;

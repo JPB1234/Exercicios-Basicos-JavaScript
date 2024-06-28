@@ -1,6 +1,6 @@
 //Aprendendo sobre funções em JavaScript
 
-function saudacao(nome){
+function saudacao(nome) {
     return `Boa noite ${nome}`
 }
 

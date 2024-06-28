@@ -3,4 +3,4 @@
 //E o segundo numero representa a parte da string que você quer terminar de retirar a fatia, excluindo o caractere escolhido.
 let frase = `Boa noite meu pica`;
 
-console.log(frase.slice(0,3).toUpperCase(), frase.slice(14).toUpperCase());
+console.log(frase.slice(0, 3).toUpperCase(), frase.slice(14).toUpperCase());

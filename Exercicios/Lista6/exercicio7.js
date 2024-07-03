@@ -1,4 +1,4 @@
-//Aprendendo sobre matrizes/arrays multidimensionais e estruturas de repetição
+//Reforçando aprendizado acerca de operações em matrizes
 let matrizVazia = [];
 let valorInicial = 0;
 
@@ -11,4 +11,10 @@ for(let i = 0; i<3; i++){
     }
     matrizVazia.push(linha);
 }
+
+console.log(matrizVazia);
+
+//Usando o método splice para adicionar um elemento especifico a uma array da matriz
+matrizVazia[2].splice(3, 0, 9);
+//Exibindo elemento da segunda linha e terceira coluna
 console.log(matrizVazia);

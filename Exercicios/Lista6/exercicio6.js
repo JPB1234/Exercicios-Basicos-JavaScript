@@ -1,4 +1,4 @@
-//Aprendendo sobre matrizes/arrays multidimensionais e estruturas de repetição
+//Aprendendo sobre operações em matrizes/arrays multidimensionais e estruturas de repetição
 let matrizVazia = [];
 let valorInicial = 0;
 
@@ -11,4 +11,7 @@ for(let i = 0; i<3; i++){
     }
     matrizVazia.push(linha);
 }
+
 console.log(matrizVazia);
+//exibindo elemento da segunda linha e terceira coluna
+console.log(matrizVazia[1][2]);
